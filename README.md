@@ -10,6 +10,13 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 $HOME/.vimrc -> $HOME/.vim/vimrc
 
 4. Utwórz katalog
+
 $HOME/.vimrc/colors
+
 i dowiaz pliki *.vim z pluginow kolorow do tego katalogu
+
+5. Utwórz katalogi
+
+$HOME/.local/vim/{backups,tmp,views}
+
 
