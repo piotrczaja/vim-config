@@ -11,7 +11,7 @@ $HOME/.vimrc -> $HOME/.vim/vimrc
 
 4. Utwórz katalog
 
-$HOME/.vimrc/colors
+$HOME/.vim/colors
 
 i dowiaz pliki *.vim z pluginow kolorow do tego katalogu
 
